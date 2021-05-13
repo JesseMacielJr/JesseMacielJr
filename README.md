@@ -20,10 +20,10 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jesse-junior/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-<a href="https://pt.stackoverflow.com/users/164675/jess%c3%a9-j%c3%banior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-<a href="https://facebook.com/jesse.junior.444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-<a href="https://instagram.com/jesse.jr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="JesseMacielJr" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/jesse-junior/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JesseMacielJr" height="20" width="20" /></a>
+<a href="https://pt.stackoverflow.com/users/164675/jess%c3%a9-j%c3%banior" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="JesseMacielJr" height="20" width="20" /></a>
+<a href="https://facebook.com/jesse.junior.444" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="JesseMacielJr" height="20" width="20" /></a>
+<a href="https://instagram.com/jesse.jr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="JesseMacielJr" height="20" width="20" /></a>
 </p>
 
 ## **GitHub Stats**
