@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **Instagram: @jesse.jr**
 
-- ⚡ Fun fact **Oops.... Error 404 😜**
+- ⚡ Fun fact **Error**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
