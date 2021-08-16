@@ -2,7 +2,7 @@
 **JesseMacielJr/JesseMacielJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jessé Júnior</h1>
-<h3 align="center">A computer engineering student learning new things everyday, everytime!</h3>
+<h3 align="center">A computer engineering student learning new things everyday, all the time!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JesseMacielJr&style=flat-square&color=blueviolet" alt="JesseMacielJr" /> </p>
 
 - 🔭 I'm currently working on new websites just for pratice
