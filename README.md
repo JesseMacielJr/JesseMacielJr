@@ -2,14 +2,11 @@
 **JesseMacielJr/JesseMacielJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<style>H2{color:#9160F7;}</style>
-
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AFA24&height=80&section=header" />
   <h1>Jessé Júnior</h1>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=9160F7&multiline=true&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 </div>
-<h3 align="center">Learning new things everyday!</h3>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=9160F7&multiline=true&width=435&lines=Frontend+Developer" alt="Typing SVG" /></a>
 
 ## About me
 - 🎓 Computer engineering student at UNIFEI (Universidade Federal de Itajubá).
