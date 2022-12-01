@@ -1,30 +1,31 @@
 <!--
 **JesseMacielJr/JesseMacielJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jessé Júnior</h1>
-<h3 align="center">A computer engineering student learning new things everyday!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JesseMacielJr&style=flat-square&color=blueviolet" alt="JesseMacielJr" /> </p>
 
-- 🔭 I'm currently creating new websites to practice my skills.
+<style>H2{color:#9160F7;}</style>
 
-- 🌱 I’m currently learning HTML, CSS, SASS, Javascript and React.
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AFA24&height=80&section=header" />
+  <h1>Jessé Júnior</h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=9160F7&multiline=true&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+</div>
+<h3 align="center">Learning new things everyday!</h3>
 
-- 📫 How to reach me: **Instagram: @jesse.jr**
+## About me
+- 🎓 Computer engineering student at UNIFEI (Universidade Federal de Itajubá).
+- 💻 Enthusiastic learner and always trying to upgrade my skills as a developer. 
+- 🚀 Planning to study Backend on a near future.
 
-- ⚡ Fun fact **Error**
+## Techs
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/jesse-junior/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-<a href="https://pt.stackoverflow.com/users/164675/jess%c3%a9-j%c3%banior" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-<a href="https://facebook.com/jesse.junior.444" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-<a href="https://instagram.com/jesse.jr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-</p>
+![HTML](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
 
 ## **GitHub Stats**
 <a href="https://github.com/Gurupreet">
@@ -34,15 +35,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesseMacielJr&show_icons=true&theme=merko&line_height=27" alt="**JesseMacielJr** github stats"/>
 </a>
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AFA24&height=80&section=footer" />
