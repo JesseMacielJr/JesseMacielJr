@@ -26,7 +26,7 @@
 
 ## **GitHub Stats**
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseMacielJr&theme=merko&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseMacielJr&layout=compact" />
 </a>
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesseMacielJr&show_icons=true&theme=merko&line_height=27" alt="**JesseMacielJr** github stats"/>
