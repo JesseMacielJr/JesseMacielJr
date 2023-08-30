@@ -51,8 +51,5 @@
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseMacielJr&layout=compact" />
 </a>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesseMacielJr&show_icons=true&theme=merko&line_height=27" alt="**JesseMacielJr** github stats"/>
-</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AFA24&height=80&section=footer" />
